@@ -2,8 +2,7 @@
 
 int main() 
 {
-    printf("Ola Galicia!");
-    printf("Viva likorka!");
+    printf("Hello Donald!");
 
     return 0;
 }
